@@ -1,6 +1,6 @@
 # Awesome-non-DeepLearning-MRI-Reconstruction
 
-# Opensource
+# Open source
 **BART**\
 [[website](https://github.com/mrirecon/bart)]
 
